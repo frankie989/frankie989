@@ -7,7 +7,7 @@
 - [my CV](https://frankie989.github.io/rsschool-cv/)
 - [photographer's website](https://rolling-scopes-school.github.io/frankie989-JSFEPRESCHOOL/portfolio/)
 - [audio player](https://rolling-scopes-school.github.io/frankie989-JSFEPRESCHOOL/js30-audio/)
-- 
+
 
 
 
